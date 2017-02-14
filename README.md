@@ -1,5 +1,5 @@
 # Creative-Thinking-AI
-AI project 2 - 2016.12
+AI project 2 - Dec.2016
 
 ## Brief description
 
